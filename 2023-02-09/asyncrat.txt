@@ -1,0 +1,12 @@
+[AsyncRAT]
+
+0dd041b802c6bdea3c2399431efd91fe58c59b68f1e782b6ec0acb8af32ce811
+
+20.226.0.95
+servidor2050.ddns.net
+ports: 6606
+version: '0.5.7B'
+install_folder: '%AppData%'
+install_file: 'svchost.exe'
+install: 'false'
+mutex: 'AsyncMutex_6SI8OkPnk'
