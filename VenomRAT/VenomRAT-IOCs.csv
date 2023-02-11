@@ -1,0 +1,92 @@
+Indicator,Detail
+C2,hfghghgih.duckdns.org:4000
+C2,wackamole0001.ddns.net:4782
+C2,thisisfakeih2d.ddns.net:4545
+C2,overthinker1877.duckdns.org:4545
+C2,34.208.134.212:9090
+C2,lfontini.ddns.net:5544
+C2,45.145.224.69:4782
+C2,blackmanta.ddns.net:46509
+C2,tcp://Titangel-31151.portmap.host:44999
+C2,less-monitor.at.playit.gg:32872
+C2,193.161.193.99:45652
+C2,workday2022.hopto.org:4788
+C2,2.tcp.eu.ngrok.io:10617
+C2,2.tcp.eu.ngrok.io:4545
+C2,164.68.101.26:1515
+C2,article-nokia.at.playit.gg:80
+C2,86.171.248.4:4782
+C2,pm-dome.at.ply.gg:13937
+C2,controlrat.zapto.org:4444
+C2,2.tcp.eu.ngrok.io:15228
+C2,blog-westminster.at.playit.gg:21071
+C2,mary-farmers.at.ply.gg:61531
+C2,alabrzi505.ddns.net:4466
+C2,86.122.136.196:8000
+C2,4.tcp.eu.ngrok.io:10316
+C2,vennodns.ddns.net:4782
+C2,locues.duckdns.org:4782
+C2,cybermohammedcyber.ddns.net:4444
+C2,simorat888.ddns.net:4782
+C2,youth-praise.at.playit.gg:17675
+C2,Miles1234-58230.portmap.host:58230
+C2,0.tcp.sa.ngrok.io:12737
+C2,SEUHOST.DDNS.NET:4782
+C2,involved-stars.at.playit.gg:42124
+Mutex,wIeCxNHaId7E5YbgXb
+Mutex,13BahB07dVb0HsknNU
+Mutex,GXLGIiyQp5wWhAjcFv
+Mutex,xiBqon3YI4gHicsPTt
+Mutex,gxs76EPMiG9rN7iMOC
+Mutex,fhyh3akNosTUmeOkkT
+Mutex,JlYM51eW4iZoFyLa2X
+Mutex,gme1ToPaQtObWZlO15
+Mutex,40tJOQk93lUBWmhnay
+Mutex,XrZPXTIexzfI9K7Mac
+Mutex,8cfiA1G4YyQNcDDdSZ
+Mutex,HneL6mFIjFzW5i9NSb
+Mutex,3sGgb9Gqet7HBaSUvC
+Mutex,kLxNe0gZ4GUsxKE0Oe
+Mutex,tDDe099VgKrmZBT9TU
+Mutex,aX61qpXygnWD1rEflh
+Mutex,6SKLBuQs6lsTv4Joow
+Mutex,JHHkXtO3zluw05pfeH
+Mutex,VKxQPbGULmnCVaZdPS
+Mutex,gINzNpc4zK56Qyk91G
+Mutex,8u17h2nOl8QESeDMxn
+Mutex,jS8UnVRUKW52S9b0qp
+Mutex,yfWELKnZJ4vxomPjh4
+Mutex,HFeSRYjaehiIX9voRN
+Mutex,NC2jhyQTKVmmDvOwVE
+Mutex,tFZudAoRJzMd4GUi9d
+Mutex,jBv9oTBnqyI8SiUsTC
+Mutex,UFv4y0DOWkZfhcmBtI
+Install_Name,Venom.exe
+Install_Name,GTA 5 Menu 1.8.5.exe
+Install_Name,face.exe
+Install_Name,1877.exe
+Install_Name,update.exe
+Install_Name,Win64Updater.exe
+Install_Name,Accunt_generator.exe
+Install_Name,svchost.exe
+Install_Name,skype.exe
+Install_Name,Kware.exe
+Install_Name,Windows Update Client.exe
+Install_Name,VenomTest.exe
+Install_Name,Google Chrome.exe
+Install_Name,notepad.exe
+Install_Name,updater.exe
+Install_Name,cheat fortnite.exe
+Install_Name,test.exe
+Startup,Venom Client Startup
+Startup,Windows Defender
+Startup,Client
+Startup,update
+Startup,Win64Updater
+Startup,Accunt_generator
+Startup,svchost
+Startup,Windows Host Shell T113
+Startup,Windows Update Client
+Startup,Google Chrome
+Startup,WinVin
+Startup,test
