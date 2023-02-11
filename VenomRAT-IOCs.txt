@@ -1,0 +1,672 @@
+
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "hfghghgih.duckdns.org:4000;",
+  "install_name": "Venom.exe",
+  "mutex": "wIeCxNHaId7E5YbgXb",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "wackamole0001.ddns.net:4782;",
+  "install_name": "GTA 5 Menu 1.8.5.exe",
+  "mutex": "13BahB07dVb0HsknNU",
+  "startup": "Windows Defender",
+  "tag": "GTA 5 Menu 1.8.5",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "thisisfakeih2d.ddns.net:4545;",
+  "install_name": "face.exe",
+  "mutex": "GXLGIiyQp5wWhAjcFv",
+  "startup": "Client",
+  "tag": "2CCA",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "overthinker1877.duckdns.org:4545;",
+  "install_name": "1877.exe",
+  "mutex": "xiBqon3YI4gHicsPTt",
+  "startup": "Venom Client Startup",
+  "tag": "1877",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "hfghghgih.duckdns.org:4000;",
+  "install_name": "Venom.exe",
+  "mutex": "wIeCxNHaId7E5YbgXb",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "34.208.134.212:9090;",
+  "install_name": "update.exe",
+  "mutex": "gxs76EPMiG9rN7iMOC",
+  "startup": "update",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "lfontini.ddns.net:5544;",
+  "install_name": "Venom.exe",
+  "mutex": "fhyh3akNosTUmeOkkT",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "45.145.224.69:4782;",
+  "install_name": "Win64Updater.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Win64Updater",
+  "tag": "Win64Updater",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "blackmanta.ddns.net:46509;",
+  "install_name": "Venom.exe",
+  "mutex": "gme1ToPaQtObWZlO15",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "tcp://Titangel-31151.portmap.host:44999;",
+  "install_name": "Accunt_generator.exe",
+  "mutex": "40tJOQk93lUBWmhnay",
+  "startup": "Accunt_generator",
+  "tag": "Accunt_generator",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "less-monitor.at.playit.gg:32872;",
+  "install_name": "svchost.exe",
+  "mutex": "XrZPXTIexzfI9K7Mac",
+  "startup": "svchost",
+  "tag": "svchost",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "193.161.193.99:45652;",
+  "install_name": "svchost.exe",
+  "mutex": "8cfiA1G4YyQNcDDdSZ",
+  "startup": "svchost",
+  "tag": "svchost",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "workday2022.hopto.org:4788;",
+  "install_name": "skype.exe",
+  "mutex": "HneL6mFIjFzW5i9NSb",
+  "startup": "Venom Client Startup",
+  "tag": "skype Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;2.tcp.eu.ngrok.io:10617;2.tcp.eu.ngrok.io:4545;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "164.68.101.26:1515;",
+  "install_name": "Venom.exe",
+  "mutex": "3sGgb9Gqet7HBaSUvC",
+  "startup": "Venom Client Startup",
+  "tag": "Holywoddbets",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "thisisfakeih2d.ddns.net:4545;",
+  "install_name": "face.exe",
+  "mutex": "kLxNe0gZ4GUsxKE0Oe",
+  "startup": "Client",
+  "tag": "2CCA",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;article-nokia.at.playit.gg:80;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "hfghghgih.duckdns.org:4000;",
+  "install_name": "Venom.exe",
+  "mutex": "wIeCxNHaId7E5YbgXb",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "wackamole0001.ddns.net:4782;",
+  "install_name": "GTA 5 Menu 1.8.5.exe",
+  "mutex": "13BahB07dVb0HsknNU",
+  "startup": "Windows Defender",
+  "tag": "GTA 5 Menu 1.8.5",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "thisisfakeih2d.ddns.net:4545;",
+  "install_name": "face.exe",
+  "mutex": "GXLGIiyQp5wWhAjcFv",
+  "startup": "Client",
+  "tag": "2CCA",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "overthinker1877.duckdns.org:4545;",
+  "install_name": "1877.exe",
+  "mutex": "xiBqon3YI4gHicsPTt",
+  "startup": "Venom Client Startup",
+  "tag": "1877",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "hfghghgih.duckdns.org:4000;",
+  "install_name": "Venom.exe",
+  "mutex": "wIeCxNHaId7E5YbgXb",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "34.208.134.212:9090;",
+  "install_name": "update.exe",
+  "mutex": "gxs76EPMiG9rN7iMOC",
+  "startup": "update",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "lfontini.ddns.net:5544;",
+  "install_name": "Venom.exe",
+  "mutex": "fhyh3akNosTUmeOkkT",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "45.145.224.69:4782;",
+  "install_name": "Win64Updater.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Win64Updater",
+  "tag": "Win64Updater",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "blackmanta.ddns.net:46509;",
+  "install_name": "Venom.exe",
+  "mutex": "gme1ToPaQtObWZlO15",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "tcp://Titangel-31151.portmap.host:44999;",
+  "install_name": "Accunt_generator.exe",
+  "mutex": "40tJOQk93lUBWmhnay",
+  "startup": "Accunt_generator",
+  "tag": "Accunt_generator",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "less-monitor.at.playit.gg:32872;",
+  "install_name": "svchost.exe",
+  "mutex": "XrZPXTIexzfI9K7Mac",
+  "startup": "svchost",
+  "tag": "svchost",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "193.161.193.99:45652;",
+  "install_name": "svchost.exe",
+  "mutex": "8cfiA1G4YyQNcDDdSZ",
+  "startup": "svchost",
+  "tag": "svchost",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "workday2022.hopto.org:4788;",
+  "install_name": "skype.exe",
+  "mutex": "HneL6mFIjFzW5i9NSb",
+  "startup": "Venom Client Startup",
+  "tag": "skype Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;2.tcp.eu.ngrok.io:10617;2.tcp.eu.ngrok.io:4545;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "164.68.101.26:1515;",
+  "install_name": "Venom.exe",
+  "mutex": "3sGgb9Gqet7HBaSUvC",
+  "startup": "Venom Client Startup",
+  "tag": "Holywoddbets",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "thisisfakeih2d.ddns.net:4545;",
+  "install_name": "face.exe",
+  "mutex": "kLxNe0gZ4GUsxKE0Oe",
+  "startup": "Client",
+  "tag": "2CCA",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;article-nokia.at.playit.gg:80;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "86.171.248.4:4782;",
+  "install_name": "Kware.exe",
+  "mutex": "tDDe099VgKrmZBT9TU",
+  "startup": "Windows Host Shell T113",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "pm-dome.at.ply.gg:13937;",
+  "install_name": "Windows Update Client.exe",
+  "mutex": "aX61qpXygnWD1rEflh",
+  "startup": "Windows Update Client",
+  "tag": "Windows Update Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "controlrat.zapto.org:4444;",
+  "install_name": "Venom.exe",
+  "mutex": "6SKLBuQs6lsTv4Joow",
+  "startup": "Venom Client Startup",
+  "tag": "TESTING",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;2.tcp.eu.ngrok.io:15228;",
+  "install_name": "Venom.exe",
+  "mutex": "JHHkXtO3zluw05pfeH",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "workday2022.hopto.org:4788;",
+  "install_name": "skype.exe",
+  "mutex": "VKxQPbGULmnCVaZdPS",
+  "startup": "Venom Client Startup",
+  "tag": "skype Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "blog-westminster.at.playit.gg:21071;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "mary-farmers.at.ply.gg:61531;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "svchost",
+  "tag": "svchost",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "blog-westminster.at.playit.gg:21071;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "alabrzi505.ddns.net:4466;",
+  "install_name": "svchost.exe",
+  "mutex": "gINzNpc4zK56Qyk91G",
+  "startup": "Venom Client Startup",
+  "tag": " ",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "86.122.136.196:8000;",
+  "install_name": "Venom.exe",
+  "mutex": "8u17h2nOl8QESeDMxn",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "4.tcp.eu.ngrok.io:10316;",
+  "install_name": "VenomTest.exe",
+  "mutex": "jS8UnVRUKW52S9b0qp",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "workday2022.hopto.org:4788;",
+  "install_name": "skype.exe",
+  "mutex": "HneL6mFIjFzW5i9NSb",
+  "startup": "Venom Client Startup",
+  "tag": "skype Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "vennodns.ddns.net:4782;",
+  "install_name": "Google Chrome.exe",
+  "mutex": "yfWELKnZJ4vxomPjh4",
+  "startup": "Google Chrome",
+  "tag": "Google Chrome",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "locues.duckdns.org:4782;",
+  "install_name": "notepad.exe",
+  "mutex": "HFeSRYjaehiIX9voRN",
+  "startup": "Venom Client Startup",
+  "tag": "Encryptado",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;cybermohammedcyber.ddns.net:4444;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "simorat888.ddns.net:4782;",
+  "install_name": "updater.exe",
+  "mutex": "NC2jhyQTKVmmDvOwVE",
+  "startup": "Venom Client Startup",
+  "tag": "skype update",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "lfontini.ddns.net:5544;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "workday2022.hopto.org:4788;",
+  "install_name": "skype.exe",
+  "mutex": "tFZudAoRJzMd4GUi9d",
+  "startup": "Venom Client Startup",
+  "tag": "skype Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "less-monitor.at.playit.gg:32872;",
+  "install_name": "svchost.exe",
+  "mutex": "jBv9oTBnqyI8SiUsTC",
+  "startup": "svchost",
+  "tag": "svchost",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "127.0.0.1:4782;lfontini.ddns.net:5544;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "youth-praise.at.playit.gg:17675;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "WinVin",
+  "tag": "WinVin",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "blackmanta.ddns.net:46509;",
+  "install_name": "Venom.exe",
+  "mutex": "gme1ToPaQtObWZlO15",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "86.122.136.196:8000;",
+  "install_name": "Venom.exe",
+  "mutex": "8u17h2nOl8QESeDMxn",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "Miles1234-58230.portmap.host:58230;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "0.tcp.sa.ngrok.io:12737;",
+  "install_name": "Venom.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "Venom Client",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "SEUHOST.DDNS.NET:4782;",
+  "install_name": "cheat fortnite.exe",
+  "mutex": "JlYM51eW4iZoFyLa2X",
+  "startup": "Venom Client Startup",
+  "tag": "fortnite cheat ",
+  "log_dir": "Logs"
+}
+-------------
+{
+  "family": "venom",
+  "version": "2.7.0.0",
+  "hosts": "involved-stars.at.playit.gg:42124;",
+  "install_name": "test.exe",
+  "mutex": "UFv4y0DOWkZfhcmBtI",
+  "startup": "test",
+  "tag": "test",
+  "log_dir": "Logs"
+}
